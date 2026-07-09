@@ -2,7 +2,7 @@
 
 42 Piscine C06 exercises.
 
-This repository contains my solutions for the C06 project from the 42 Piscine.  
+This repository contains my solutions for the C06 project completed during the 42 Piscine.  
 The project focuses on command-line arguments, `argc`, `argv`, string output, reversing parameters, and sorting program arguments in C.
 
 ## Exercises
@@ -58,8 +58,10 @@ Before submitting to 42, unnecessary testing code and unused includes should be 
 
 ## Notes
 
-This repository is part of my 42 Piscine preparation.  
+This repository is part of my work during the 42 Piscine.  
 The goal of C06 is to understand how C programs receive and handle command-line arguments using `argc` and `argv`.
+
+Testing code and unnecessary includes should be removed before submitting to 42.
 
 ## Author
 
